@@ -1,0 +1,19 @@
+{
+  "name": "mocha-wd-parallel",
+  "version": "0.0.0",
+  "description": "Parallel tests with Mocha and WD.js  =============",
+  "main": "",
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "chai-as-promised": "~4.1.0",
+    "colors": "~0.6.2",
+    "grunt": "^0.4.5",
+    "grunt-parallel": "^0.4.1",
+    "grunt-shell": "^1.1.2",
+    "lodash": "~2.4.1",
+    "mocha": "~2.2.5",
+    "parallel-mocha": "~0.0.7",
+    "q": "~0.9.7",
+    "wd": "~0.2.8"
+  }
+}
