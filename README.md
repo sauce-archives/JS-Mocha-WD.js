@@ -49,7 +49,7 @@ This code is provided on an "AS-IS” basis without warranty of any kind, either
 
 ##### [Node Documentation](https://nodejs.org/en/docs/)
 
-##### [Mocha Documentation](http://jasmine.github.io/2.4/introduction.html)
+##### [Mocha Documentation](https://mochajs.org/)
 
 ##### [Grunt Documentation](http://gruntjs.com/getting-started)
 
