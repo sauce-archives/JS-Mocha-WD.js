@@ -1,4 +1,4 @@
-// wd = require('wd');
+wd = require('wd');
 require('colors');
 var _ = require("lodash");
 var chai = require("chai");
