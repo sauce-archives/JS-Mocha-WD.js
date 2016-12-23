@@ -61,7 +61,7 @@ describe('   mocha spec examples (' + desired.browserName + ')', function() {
 
   it("should get home page", function(done) {
     browser
-      .get("https://saucelabs.com/test/guinea-pig")
+      .get("https://saucelabs-sample-test-frameworks.github.io/training-test-page")
       .title()
       .should.become("I am a page title - Sauce Labs")
       .nodeify(done);
@@ -70,7 +70,7 @@ describe('   mocha spec examples (' + desired.browserName + ')', function() {
 
   it("should go to the doc page1", function(done) {
     browser
-      .get("https://saucelabs.com/test/guinea-pig")
+      .get("https://saucelabs-sample-test-frameworks.github.io/training-test-page")
       .elementById('i am a link')
       .click()
       .waitForElementById("i_am_an_id", 10000)
